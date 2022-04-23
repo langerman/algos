@@ -53,6 +53,6 @@ To solve our problem we must count the total number of ways we can decrypt our m
 
 ## Big-O Analysis
 
-Runtime: O(N) where N is the total number of characters in our message. 
+Runtime: O(N) where N is the total number of characters in our message.
 
 Space complexity: O(N) where N is the total number of characters in our array. This results from storing at most N elements in our memoize hash map.
